@@ -12,4 +12,4 @@
 Aplikasi kursus untuk para gamers yang ingin meningkatkan skillnya dalam bermain game.
 
 ## Developer Works
-- Full-stack: Albert E (albertenrico.5@gmail.com)
+- Full-stack: Albert E (vradnisntlong@gmail.com)
