@@ -13,3 +13,4 @@ Aplikasi kursus untuk para gamers yang ingin meningkatkan skillnya dalam bermain
 
 ## Developer Works
 - Full-stack: Albert E (vradnisntlong@gmail.com)
+- UI Design: Ahmad Sabiq
