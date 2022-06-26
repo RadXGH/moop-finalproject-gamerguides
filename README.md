@@ -1,8 +1,8 @@
 # MOOP Final Project
 
 ## Kelompok
-- Ahmad Sabiq - 2440054664
-- Albert Enrico - 2440022896
+- Ahmad Sabiq - 2440054664 - UI Design (Figma)
+- Albert Enrico - 2440022896 - Application initial setup, Firebase setup, account sign in and sign up, account info updates, and account deletion
 - Bintang Maulana Ibrahim - 2440047753
 - Daffa Haidar Nabil Zufar - 2440100456
 - Sarwinder - 2440123371
