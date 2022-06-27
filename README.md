@@ -1,6 +1,10 @@
 <p align="center">MOOP Final Project</p>
 <p align="center"><a href="https://github.com/RadXGH/moop-finalproject-gamerguides/" target="_blank"><img src="https://user-images.githubusercontent.com/56962807/175959505-e4040b45-cf84-42fc-9fde-c1d6e76b4d62.png" width="400"></a></p>
 
+<p align="center">
+<a href="https://www.figma.com/file/IpXEGgDnywOc9k8qXWikVi/MOOP?node-id=0%3A1">Figma Design</a>
+<a href="https://docs.google.com/presentation/d/1i8mkskXu5Ztw8EX_v_N0ckS9OpkvSV9RzitDKhMyKIA/edit#slide=id.p">Final Report</a>
+</p>
 
 ## Kelompok
 - (NAMA) - (NIM) - (KERJAAN)
