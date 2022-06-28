@@ -1,9 +1,8 @@
-<p align="center"><h1>MOOP Final Project</h1></p>
+<h1 align="center">MOOP Final Project</h1>
 <p align="center"><a href="https://github.com/RadXGH/moop-finalproject-gamerguides/" target="_blank"><img src="https://user-images.githubusercontent.com/56962807/175959505-e4040b45-cf84-42fc-9fde-c1d6e76b4d62.png" width="400"></a></p>
 
-<p align="center">
-<h1><a href="https://docs.google.com/presentation/d/1i8mkskXu5Ztw8EX_v_N0ckS9OpkvSV9RzitDKhMyKIA/edit#slide=id.p">PPT</a></h1>
-</p>
+<h1 align="center"><a href="https://docs.google.com/presentation/d/1i8mkskXu5Ztw8EX_v_N0ckS9OpkvSV9RzitDKhMyKIA/edit#slide=id.p">PPT</a></h1>
+
 
 ## Kelompok
 - (NAMA) - (NIM) - (KERJAAN)
