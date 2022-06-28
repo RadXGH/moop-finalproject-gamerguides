@@ -7,7 +7,7 @@
 ## Kelompok
 - (NAMA) - (NIM) - (KERJAAN)
 - Ahmad Sabiq - 2440054664 - UI Design (Figma)
-- Albert Enrico - 2440022896 - Application initial setup and main designs (XML), Firebase setup, account sign in and sign up, account info updates, and account deletion
+- Albert Enrico - 2440022896 - Application initial setup and main designs (XML), Firebase setup, Account (authentications, database, storage, sign in and sign up, account info updates, and account deletion), and Home (database, storage, game list UI).
 - Bintang Maulana Ibrahim - 2440047753 - None
 - Daffa Haidar Nabil Zufar - 2440100456 - Code Refactoring, Compatibillity testing and Error Handling
 - Sarwinder - 2440123371 - None
