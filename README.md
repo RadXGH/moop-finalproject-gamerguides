@@ -2,7 +2,8 @@
 <p align="center"><a href="https://github.com/RadXGH/moop-finalproject-gamerguides/" target="_blank"><img src="https://user-images.githubusercontent.com/56962807/175959505-e4040b45-cf84-42fc-9fde-c1d6e76b4d62.png" width="400"></a></p>
 
 <p align="center">
-<a href="https://www.figma.com/file/IpXEGgDnywOc9k8qXWikVi/MOOP?node-id=0%3A1">Figma Design</a>          <a href="https://docs.google.com/presentation/d/1i8mkskXu5Ztw8EX_v_N0ckS9OpkvSV9RzitDKhMyKIA/edit#slide=id.p">Final Report</a>
+<a href="https://www.figma.com/file/IpXEGgDnywOc9k8qXWikVi/MOOP?node-id=0%3A1">Figma Design</a>
+<a href="https://docs.google.com/presentation/d/1i8mkskXu5Ztw8EX_v_N0ckS9OpkvSV9RzitDKhMyKIA/edit#slide=id.p">Final Report</a>
 </p>
 
 ## Kelompok
@@ -24,4 +25,11 @@ Aplikasi kursus untuk para gamers yang ingin meningkatkan skillnya dalam bermain
 
 ## Overview
 ![Poster_page-0001](https://user-images.githubusercontent.com/56962807/176106215-9dfd1e18-d477-4153-9d02-12130e6256b4.jpg)
+
+## Screenshoot
+<p align="center">
+<img src="https://user-images.githubusercontent.com/56962807/176107261-6715db82-1d2a-4879-8e39-6cf9d753b5d4.png" width="500">
+<img src="https://user-images.githubusercontent.com/56962807/176107295-5c660986-f8d4-4863-a017-5263a9dbd228.png" width="500">
+</p>
+
 
