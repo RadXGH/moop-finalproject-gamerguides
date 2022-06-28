@@ -11,7 +11,7 @@
 - Bintang Maulana Ibrahim - 2440047753 - None
 - Daffa Haidar Nabil Zufar - 2440100456 - Code Refactoring, Compatibillity testing and Error Handling
 - Sarwinder - 2440123371 - None
-- Alfons Ramadhany Pulle - 2440024730 - None
+- Alfons Ramadhany Pulle - 2440024730 - PowerPoint, UML
 
 ## GamerGuides
 Aplikasi kursus untuk para gamers yang ingin meningkatkan skillnya dalam bermain game.
