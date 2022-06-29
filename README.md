@@ -20,7 +20,7 @@
 - Daffa Haidar Nabil Zufar - 2440100456 - Code Refactoring, Compatibillity testing and Error Handling
 
 
-- Sarwinder - 2440123371 - None
+- Sarwinder - 2440123371 - Logo apk
 
 
 - Alfons Ramadhany Pulle - 2440024730 - PowerPoint, UML
