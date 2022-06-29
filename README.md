@@ -20,6 +20,7 @@ Aplikasi kursus untuk para gamers yang ingin meningkatkan skillnya dalam bermain
 - Full-stack: Albert E (vradnisntlong@gmail.com)
 - UI Design: Ahmad Sabiq (ahmadsabiqadhy@gmail.com)
 - Project Report: Daffa Haidar (daffa.h.n.zufar@gmail.com)
+- Project Documentation: Alfons Ramadhany (alfons.ramadhany22@gmail.com)
 
 ## Poster Overviews
 ![Poster_page-0001](https://user-images.githubusercontent.com/56962807/176106215-9dfd1e18-d477-4153-9d02-12130e6256b4.jpg)
