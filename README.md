@@ -11,7 +11,7 @@
 - Ahmad Sabiq - 2440054664 - UI Design (Figma)
 
 
-- Albert Enrico - 2440022896 - Application initial setup and main designs (XML), database, storage, and authentication setup (Firebase), added application logo, Firebase setup, Splash Screen, GetStarted, Account (authentications, database, storage, sign in and sign up, account info updates, and account deletion), Home (database, game list UI), AddNewCourse (database, storage, UI, upload), UserCourses (database, UI), EditCourse (database, storage, UI), DeleteCourse (database, storage, UI), and AddNewVideo (database, storage, UI).
+- Albert Enrico - 2440022896 - All application codes (Kotlin, XML, IntelliJ), Firebase Auth, Realtime Database, Cloud Storage setup.
 
 
 - Bintang Maulana Ibrahim - 2440047753 - None
