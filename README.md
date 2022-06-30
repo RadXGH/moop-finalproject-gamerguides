@@ -8,7 +8,7 @@
 - (NAMA) - (NIM) - (KERJAAN)
 
 
-- Ahmad Sabiq - 2440054664 - UI Design (Figma)
+- Ahmad Sabiq - 2440054664 - UI Design (Figma), Poster, Use Case, Class Diagram
 
 
 - Albert Enrico - 2440022896 - All application codes (Kotlin, XML, IntelliJ), Firebase Auth, Realtime Database, Cloud Storage setup.
@@ -17,13 +17,13 @@
 - Bintang Maulana Ibrahim - 2440047753 - None
 
 
-- Daffa Haidar Nabil Zufar - 2440100456 - Code Refactoring, Compatibillity testing and Error Handling
+- Daffa Haidar Nabil Zufar - 2440100456 - Code Refactoring, Compatibillity testing and Error Handling, Poster
 
 
 - Sarwinder - 2440123371 - Logo apk
 
 
-- Alfons Ramadhany Pulle - 2440024730 - PowerPoint, UML
+- Alfons Ramadhany Pulle - 2440024730 - PowerPoint, Poster, Use Case, Class Diagram
 
 ## GamerGuides
 Aplikasi kursus untuk para gamers yang ingin meningkatkan skillnya dalam bermain game.
