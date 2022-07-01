@@ -33,7 +33,7 @@ Aplikasi kursus untuk para gamers yang ingin meningkatkan skillnya dalam bermain
 - UI Design: Ahmad Sabiq (ahmadsabiqadhy@gmail.com)
 - Project Report: Daffa Haidar (daffa.h.n.zufar@gmail.com)
 - Project Documentation: Alfons Ramadhany (alfons.ramadhany22@gmail.com)
-- Project Desain: Sarwinder (sarwinder1701@gmail.com
+- Project Desain: Sarwinder (sarwinder1701@gmail.com)
 
 ## Poster Overviews
 ![Poster MOOP](https://user-images.githubusercontent.com/56962807/176816791-eb61475e-1c96-4fee-a18e-5503f5581002.jpg)
