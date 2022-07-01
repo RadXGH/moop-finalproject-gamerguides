@@ -17,7 +17,7 @@
 - Bintang Maulana Ibrahim - 2440047753 - None
 
 
-- Daffa Haidar Nabil Zufar - 2440100456 - Code Refactoring, Compatibillity testing and Error Handling, Poster
+- Daffa Haidar Nabil Zufar - 2440100456 - Ideation, Poster, Figma HIFI Mockup, Prototype
 
 
 - Sarwinder - 2440123371 - Logo apk
