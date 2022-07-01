@@ -17,7 +17,7 @@
 - Bintang Maulana Ibrahim - 2440047753 - None
 
 
-- Daffa Haidar Nabil Zufar - 2440100456 - Ideation, Poster, Figma HIFI Mockup, Prototype, PowerPoint
+- Daffa Haidar Nabil Zufar - 2440100456 - Ideation, Poster, Figma HIFI Mockup, Prototype, PowerPoint, Github Markdown Infographics
 
 
 - Sarwinder - 2440123371 - Logo apk
@@ -35,7 +35,7 @@ Aplikasi kursus untuk para gamers yang ingin meningkatkan skillnya dalam bermain
 - Project Documentation: Alfons Ramadhany (alfons.ramadhany22@gmail.com)
 
 ## Poster Overviews
-![Poster_page-0001](https://user-images.githubusercontent.com/56962807/176106215-9dfd1e18-d477-4153-9d02-12130e6256b4.jpg)
+![Poster MOOP](https://user-images.githubusercontent.com/56962807/176816791-eb61475e-1c96-4fee-a18e-5503f5581002.jpg)
 
 ## Screenshots
 <p align="center">
@@ -61,6 +61,9 @@ Aplikasi kursus untuk para gamers yang ingin meningkatkan skillnya dalam bermain
 <img src="https://user-images.githubusercontent.com/56962807/176118983-50a887d9-2a9a-40ad-9857-0ab063b5bcc8.png" width="500">
 <img src="https://user-images.githubusercontent.com/56962807/176119005-3493ae53-f5b5-4bbc-9fc8-b861b20ca34b.png" width="500">
 </p>
+
+
+
 
 
 
