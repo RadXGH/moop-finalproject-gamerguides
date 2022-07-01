@@ -1,5 +1,5 @@
 <h1 align="center">MOOP Final Project</h1>
-<p align="center"><a href="https://github.com/RadXGH/moop-finalproject-gamerguides/" target="_blank"><img src="https://user-images.githubusercontent.com/56962807/175959505-e4040b45-cf84-42fc-9fde-c1d6e76b4d62.png" width="400"></a></p>
+<p align="center"><a href="https://github.com/RadXGH/moop-finalproject-gamerguides/" target="_blank"><img src="https://user-images.githubusercontent.com/56962807/176817401-8187847b-0aa2-484f-9cec-df0dfa8beb02.png" width="400"></a></p>
 
 <h1 align="center"><a href="https://www.canva.com/design/DAFDqn-3Dyo/yIAoHJsDJhny5m1bS74hEg/edit">Power Point GG</a></h1>
 
@@ -61,6 +61,9 @@ Aplikasi kursus untuk para gamers yang ingin meningkatkan skillnya dalam bermain
 <img src="https://user-images.githubusercontent.com/56962807/176118983-50a887d9-2a9a-40ad-9857-0ab063b5bcc8.png" width="500">
 <img src="https://user-images.githubusercontent.com/56962807/176119005-3493ae53-f5b5-4bbc-9fc8-b861b20ca34b.png" width="500">
 </p>
+
+
+
 
 
 
