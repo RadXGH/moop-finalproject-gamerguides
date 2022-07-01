@@ -25,9 +25,6 @@
 
 - Alfons Ramadhany Pulle - 2440024730 - PowerPoint, Poster, Use Case, Class Diagram
 
-## GamerGuides
-Aplikasi kursus untuk para gamers yang ingin meningkatkan skillnya dalam bermain game.
-
 ## Developer Works
 - Full-stack: Albert E (vradnisntlong@gmail.com)
 - UI Design: Ahmad Sabiq (ahmadsabiqadhy@gmail.com)
@@ -35,8 +32,39 @@ Aplikasi kursus untuk para gamers yang ingin meningkatkan skillnya dalam bermain
 - Project Documentation: Alfons Ramadhany (alfons.ramadhany22@gmail.com)
 - Project Desain: Sarwinder (sarwinder1701@gmail.com)
 
+## GamerGuides
+Aplikasi kursus untuk para gamers yang ingin meningkatkan skillnya dalam bermain game.
+
 ## Poster Overviews
 ![Poster MOOP](https://user-images.githubusercontent.com/56962807/176816791-eb61475e-1c96-4fee-a18e-5503f5581002.jpg)
+
+## GamerGuides
+Aplikasi kursus untuk para gamers yang ingin meningkatkan skillnya dalam bermain game. Aplikasi ini berisi sebuah kumpulan video tutorial yang diunggah oleh player yang handal dalam bermain game, sehingga memudahkan player lain dalam bermain game menuju tingkat yang lebih baik.
+
+## Tech Stack
+- Androidx
+- [CircleImageView](https://github.com/hdodenhof/CircleImageView)
+- [Firebase Realtime Database](https://firebase.google.com/docs/database)
+- [Firebase Authentication](https://firebase.google.com/docs/auth)
+- [Firebase Cloud Storage](https://firebase.google.com/docs/storage)
+- [Firebase UI](https://github.com/firebase/FirebaseUI-Android)
+- [Picasso](https://square.github.io/picasso/)
+- [YouTube Android Player API](https://developers.google.com/youtube/android/player)
+
+## Features
+- User Sign Up and Sign In.
+- User authentications.
+- Account reset password.
+- Account info updates.
+- user-generated data (courses, videos, favorites) update in realtime.
+- user-generated data (courses and videos) edits.
+- Play YouTube videos with a user inputted valid URL.
+- Bottom navigation bar with floating action button.
+
+## Firebase
+- Firebase Authentication to store and authenticate user account.
+- Firebase Realtime Database to store user-generated and system data.
+- Firebase Cloud Storage to store user-inputted images and default system data.
 
 ## Screenshots
 <p align="center">
